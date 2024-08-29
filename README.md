@@ -8,7 +8,7 @@
   <img src="https://img.icons8.com/color/2x/power-bi.png" width="120" alt="PowerBI">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://banner2.cleanpng.com/20180526/rbf/avqyiq7ex.webp" width="120" alt="SQL">
+  <img src="https://cdn-icons-png.freepik.com/512/4299/4299956.png" width="130" alt="SQL">
 </table>
 
 <div> 
